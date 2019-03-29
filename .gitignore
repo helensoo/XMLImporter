@@ -1,0 +1,5 @@
+/bin/
+# Don't track content of the file with format txt and xml
+*.xml
+*.txt
+
