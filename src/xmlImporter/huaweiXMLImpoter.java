@@ -182,10 +182,6 @@ public class huaweiXMLImpoter {
 //		System.out.println("opemMos: " + openMos);
 
 
-//now do version5 for branch1
-
-//this is the 7.version
-
 
 
 
