@@ -182,7 +182,7 @@ public class huaweiXMLImpoter {
 //		System.out.println("opemMos: " + openMos);
 
 
-
+//this is the 7.version
 
 
 
