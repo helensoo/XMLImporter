@@ -183,6 +183,7 @@ public class huaweiXMLImpoter {
 
 
 //version 12
+//version 10
 
 
 	}
