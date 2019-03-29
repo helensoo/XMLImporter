@@ -181,8 +181,7 @@ public class huaweiXMLImpoter {
 		System.out.println(openMos.size());
 //		System.out.println("opemMos: " + openMos);
 
-		//this is the new modification
-		//now do modification in the branch1
+//now do version5 for branch1
 
 
 
